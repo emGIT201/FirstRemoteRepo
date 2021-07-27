@@ -1,3 +1,4 @@
 mas³o  6.00
 jajka  10.00
 chleb  4.20
+woda 2.00
