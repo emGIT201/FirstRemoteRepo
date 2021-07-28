@@ -3,3 +3,4 @@ jajka  10.00
 chleb  4.20
 woda 2.00
 ry¿ 15.00
+pepsi 7.00
